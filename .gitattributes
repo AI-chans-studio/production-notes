@@ -1,0 +1,8 @@
+* text=auto
+*.md text eol=lf
+LICENSE text eol=lf
+*.png binary
+
+# Preserve verbatim upstream bytes while keeping diff checks meaningful elsewhere.
+LICENSE whitespace=-blank-at-eof
+references/production-method/character-information-sheet.md whitespace=-blank-at-eof

@@ -1,0 +1,8 @@
+# 荷渡し・編集用の非公開資料
+temp/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
