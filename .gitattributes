@@ -6,3 +6,4 @@ LICENSE text eol=lf
 # Preserve verbatim upstream bytes while keeping diff checks meaningful elsewhere.
 LICENSE whitespace=-blank-at-eof
 references/production-method/character-information-sheet.md whitespace=-blank-at-eof
+snapshots/2026-09-15-kaeban-first-voyage.md whitespace=-blank-at-eol

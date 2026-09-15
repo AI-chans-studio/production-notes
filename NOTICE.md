@@ -2,7 +2,7 @@
 
 ## CC BY 4.0の対象
 
-特記のないリポジトリ本文、解説文、工程記録、および `references/production-method/` に収録した制作資料は、えおふ (EOF)により Creative Commons Attribution 4.0 International（CC BY 4.0）で提供されます。
+特記のないリポジトリ本文、解説文、工程記録、`snapshots/` に収録した文章記録、および `references/production-method/` に収録した制作資料は、えおふ (EOF)により Creative Commons Attribution 4.0 International（CC BY 4.0）で提供されます。
 
 - 権利者・表示名: えおふ (EOF)
 - ライセンス概要: <https://creativecommons.org/licenses/by/4.0/deed.ja>

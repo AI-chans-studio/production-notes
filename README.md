@@ -12,6 +12,7 @@
 
 ## このリポジトリで読めるもの
 
+- [時点を固定したスナップショット](snapshots/README.md)
 - [ケーススタディ本文](case-studies/tonta-training/README.md)
 - [工程と判断の記録](case-studies/tonta-training/process.md)
 - [主要標本の来歴](case-studies/tonta-training/provenance.md)
